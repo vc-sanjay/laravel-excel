@@ -5,10 +5,16 @@
         "build": "vite build"
     },
     "devDependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^35.1.0",
         "axios": "^0.27",
         "laravel-vite-plugin": "^0.6.0",
         "lodash": "^4.17.19",
         "postcss": "^8.1.14",
         "vite": "^3.0.0"
+    },
+    "dependencies": {
+        "ckeditor4": "^4.19.1",
+        "ckeditor4-plugin-spreadsheet": "^1.2.0",
+        "handsontable": "^12.1.2"
     }
 }

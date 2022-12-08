@@ -1,0 +1,527 @@
+{
+"SMC-009":[
+ {
+  "CONCRETE CUBE TEST REPORT": "Report No.",
+  "Column3": ":",
+  "Column4": "SMC\/210128\/009",
+  "Column9": "    Report Date  :",
+  "Column11": "01-02-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Name of Customer",
+  "Column3": ":",
+  "Column4": "Deep Enterprise"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Address",
+  "Column4": "The crest, Opp. Madhuram Posh, b\/h Keshav Appartment, Tp-76-b, Chandkheda "
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Name of Work ",
+  "Column3": ":",
+  "Column4": "Residential Building"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Letter Ref. No.",
+  "Column3": ":",
+  "Column4": "-"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Laboratory ID No.",
+  "Column3": ":",
+  "Column4": "SMC-009"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Sample Description",
+  "Column3": ":",
+  "Column4": "Concrete Cube",
+  "Column9": "   Grade of Concrete:",
+  "Column11": "M25"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Condition of Sample",
+  "Column3": ":",
+  "Column4": "Satisfactory ",
+  "Column9": "Identification marks:",
+  "Column11": "Column"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": " Sample Receipt Date",
+  "Column3": ":",
+  "Column4": "28-01-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Test Method",
+  "Column3": ":",
+  "Column4": "IS 516 : 1959 (RA : 2004)"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Testing Start Date",
+  "Column3": ":",
+  "Column4": "01-02-2021",
+  "Column8": "Testing Complete Date:",
+  "Column11": "01-02-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Temperature",
+  "Column3": ":",
+  "Column4": "As per test procedure"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Test Result"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Identification ",
+  "Column2": "Date of  Casting",
+  "Column4": " Date  of Testing",
+  "Column5": "Age of Testing ",
+  "Column6": "Length (mm)",
+  "Column7": "Width (mm)",
+  "Column8": "Cross Sectional Area         (mm²)",
+  "Column9": "Weight of                Cube                          (Kg)",
+  "Column10": "Maximum load                     (KN)",
+  "Column11": "Compressive Strength (N\/mm²)",
+  "Column12": "Average Compressive Strength (N\/mm2)"
+ },
+ null,
+ {
+  "CONCRETE CUBE TEST REPORT": "1\/3",
+  "Column2": "24-01-21",
+  "Column4": "01-02-21",
+  "Column5": "8 Days",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.8,
+  "Column10": 525.5,
+  "Column11": 23.355555555555558,
+  "Column12": 20.79407407407407
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "2\/3",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.602,
+  "Column10": 463.9,
+  "Column11": 20.617777777777775
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "3\/3",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.573,
+  "Column10": 414.2,
+  "Column11": 18.40888888888889
+ },
+ null,
+ {
+  "CONCRETE CUBE TEST REPORT": "Grade of Concrete",
+  "Column2": "M10",
+  "Column4": "M15",
+  "Column5": "M20",
+  "Column7": "M25",
+  "Column8": "M30",
+  "Column9": "M35",
+  "Column10": "M40",
+  "Column11": "M45",
+  "Column12": "M50"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Min. Strength     (7 Days)",
+  "Column2": 6,
+  "Column4": 9,
+  "Column5": 12,
+  "Column7": 15,
+  "Column8": 18,
+  "Column9": 21,
+  "Column10": 24,
+  "Column11": 27,
+  "Column12": 30
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Min. Strength  (28 Days)",
+  "Column2": 10,
+  "Column4": 15,
+  "Column5": 20,
+  "Column7": 25,
+  "Column8": 30,
+  "Column9": 35,
+  "Column10": 40,
+  "Column11": 45,
+  "Column12": 50
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Note: The above test result are related only to the test performed on the given sample .Endorsement of the product is neither inferred nor implied.                Results\/Reports are not supposed to be use for publicity. This test report is not to be reproduced wholly or in part and cannot be use as an evidence without approval of SMC Lab.     "
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "*** End of Report***"
+ },
+ {
+  "Column10": "For Shri Metal Connect LLP"
+ },
+ null,
+ null,
+ {
+  "Column10": "Bhavik Shah"
+ },
+ {
+  "Column10": "(Technical Manager)"
+ },
+ {
+  "Column5": "Page  1 of 1",
+  "Column10": "Authorized Signatory"
+ }
+],
+"SMC-005":[
+ {
+  "CONCRETE CUBE TEST REPORT": "Report No.",
+  "Column3": ":",
+  "Column4": "SMC\/210128\/005",
+  "Column9": "    Report Date  :",
+  "Column11": "01-02-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Name of Customer",
+  "Column3": ":",
+  "Column4": "Deep Enterprise"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Address",
+  "Column4": "The crest, Opp. Madhuram Posh, b\/h Keshav Appartment, Tp-76-b, Chandkheda "
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Name of Work ",
+  "Column3": ":",
+  "Column4": "Residential Building"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Letter Ref. No.",
+  "Column3": ":",
+  "Column4": "-"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Laboratory ID No.",
+  "Column3": ":",
+  "Column4": "SMC-005"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Sample Description",
+  "Column3": ":",
+  "Column4": "Concrete Cube",
+  "Column9": "   Grade of Concrete:",
+  "Column11": "M25"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Condition of Sample",
+  "Column3": ":",
+  "Column4": "Satisfactory ",
+  "Column9": "Identification Mark:",
+  "Column11": "-"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": " Sample Receipt Date",
+  "Column3": ":",
+  "Column4": "28-01-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Test Method",
+  "Column3": ":",
+  "Column4": "IS 516 : 1959 (RA : 2004)"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Testing Start Date",
+  "Column3": ":",
+  "Column4": "01-02-2021",
+  "Column8": "Testing Complete Date:",
+  "Column11": "01-02-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Environmental Condition",
+  "Column3": ":",
+  "Column4": "As per test procedure"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Test Result"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Identification ",
+  "Column2": "Date of  Casting",
+  "Column4": " Date  of Testing",
+  "Column5": "Age of Testing ",
+  "Column6": "Length (mm)",
+  "Column7": "Width (mm)",
+  "Column8": "Cross Sectional Area         (mm²)",
+  "Column9": "Weight of                Cube                          (Kg)",
+  "Column10": "Maximum load                     (KN)",
+  "Column11": "Compressive Strength (N\/mm²)",
+  "Column12": "Average Compressive Strength (N\/mm2)"
+ },
+ null,
+ {
+  "CONCRETE CUBE TEST REPORT": "1\/3",
+  "Column2": "25-01-21",
+  "Column4": "01-02-21",
+  "Column5": "7 Days",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.687,
+  "Column10": 355,
+  "Column11": 15.777777777777779,
+  "Column12": 17.277037037037037
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "2\/3",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.636,
+  "Column10": 449.5,
+  "Column11": 19.977777777777778
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "3\/3",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.616,
+  "Column10": 361.7,
+  "Column11": 16.075555555555553
+ },
+ null,
+ {
+  "CONCRETE CUBE TEST REPORT": "Grade of Concrete",
+  "Column2": "M10",
+  "Column4": "M15",
+  "Column5": "M20",
+  "Column7": "M25",
+  "Column8": "M30",
+  "Column9": "M35",
+  "Column10": "M40",
+  "Column11": "M45",
+  "Column12": "M50"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Min. Strength     (7 Days)",
+  "Column2": 6,
+  "Column4": 9,
+  "Column5": 12,
+  "Column7": 15,
+  "Column8": 18,
+  "Column9": 21,
+  "Column10": 24,
+  "Column11": 27,
+  "Column12": 30
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Min. Strength  (28 Days)",
+  "Column2": 10,
+  "Column4": 15,
+  "Column5": 20,
+  "Column7": 25,
+  "Column8": 30,
+  "Column9": 35,
+  "Column10": 40,
+  "Column11": 45,
+  "Column12": 50
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Note: The above test result are related only to the test performed on the given sample .Endorsement of the product is neither inferred nor implied.                Results\/Reports are not supposed to be use for publicity. This test report is not to be reproduced wholly or in part and cannot be use as an evidence without approval of SMC Lab.     "
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "*** End of Report***"
+ },
+ {
+  "Column10": "For Shri Metal Connect LLP"
+ },
+ null,
+ null,
+ {
+  "Column10": "Bhavik Shah"
+ },
+ {
+  "Column10": "(Technical Manager)"
+ },
+ {
+  "Column5": "Page  1 of 1",
+  "Column10": "Authorized Signatory"
+ }
+],
+"SMC-003 ":[
+ {
+  "CONCRETE CUBE TEST REPORT": "Report No.",
+  "Column3": ":",
+  "Column4": "SMC\/210128\/003",
+  "Column9": "    Report Date  :",
+  "Column11": "30-01-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Name of Customer",
+  "Column3": ":",
+  "Column4": "Deep Enterprise"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Address",
+  "Column4": "The crest, Opp. Madhuram Posh, b\/h Keshav Appartment, Tp-76-b, Chandkheda "
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Name of Work ",
+  "Column3": ":",
+  "Column4": "Residential Building"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Letter Ref. No.",
+  "Column3": ":",
+  "Column4": "-"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Laboratory ID No.",
+  "Column3": ":",
+  "Column4": "SMC-003"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Sample Description",
+  "Column3": ":",
+  "Column4": "Concrete Cube",
+  "Column9": "   Grade of Concrete:",
+  "Column11": "M25"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Condition of Sample",
+  "Column3": ":",
+  "Column4": "Satisfactory ",
+  "Column9": "Identification marks:",
+  "Column11": "-"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": " Sample Receipt Date",
+  "Column3": ":",
+  "Column4": "28-01-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Test Method",
+  "Column3": ":",
+  "Column4": "IS 516 : 1959 (RA : 2004)"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Testing Start Date",
+  "Column3": ":",
+  "Column4": "30-01-2021",
+  "Column8": "Testing Complete Date:",
+  "Column11": "30-01-2021"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Temperature",
+  "Column3": ":",
+  "Column4": "As per test procedure"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Test Result"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Identification ",
+  "Column2": "Date of  Casting",
+  "Column4": " Date  of Testing",
+  "Column5": "Age of Testing ",
+  "Column6": "Length (mm)",
+  "Column7": "Width (mm)",
+  "Column8": "Cross Sectional Area         (mm²)",
+  "Column9": "Weight of                Cube                          (Kg)",
+  "Column10": "Maximum load                     (KN)",
+  "Column11": "Compressive Strength (N\/mm²)",
+  "Column12": "Average Compressive Strength (N\/mm2)"
+ },
+ null,
+ {
+  "CONCRETE CUBE TEST REPORT": "1\/3",
+  "Column2": "23-01-21",
+  "Column4": "30-01-21",
+  "Column5": "7 Days",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.732,
+  "Column10": 444.7,
+  "Column11": 19.764444444444447,
+  "Column12": 18.626666666666665
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "2\/3",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.748,
+  "Column10": 422.7,
+  "Column11": 18.786666666666665
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "3\/3",
+  "Column6": 150,
+  "Column7": 150,
+  "Column8": 22500,
+  "Column9": 8.68,
+  "Column10": 389.9,
+  "Column11": 17.328888888888887
+ },
+ null,
+ {
+  "CONCRETE CUBE TEST REPORT": "Grade of Concrete",
+  "Column2": "M10",
+  "Column4": "M15",
+  "Column5": "M20",
+  "Column7": "M25",
+  "Column8": "M30",
+  "Column9": "M35",
+  "Column10": "M40",
+  "Column11": "M45",
+  "Column12": "M50"
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Min. Strength     (7 Days)",
+  "Column2": 6,
+  "Column4": 9,
+  "Column5": 12,
+  "Column7": 15,
+  "Column8": 18,
+  "Column9": 21,
+  "Column10": 24,
+  "Column11": 27,
+  "Column12": 30
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Min. Strength  (28 Days)",
+  "Column2": 10,
+  "Column4": 15,
+  "Column5": 20,
+  "Column7": 25,
+  "Column8": 30,
+  "Column9": 35,
+  "Column10": 40,
+  "Column11": 45,
+  "Column12": 50
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "Note: The above test result are related only to the test performed on the given sample .Endorsement of the product is neither inferred nor implied.                Results\/Reports are not supposed to be use for publicity. This test report is not to be reproduced wholly or in part and cannot be use as an evidence without approval of SMC Lab.     "
+ },
+ {
+  "CONCRETE CUBE TEST REPORT": "*** End of Report***"
+ },
+ {
+  "Column10": "For Shri Metal Connect LLP"
+ },
+ null,
+ null,
+ {
+  "Column10": "Bhavik Shah"
+ },
+ {
+  "Column10": "(Technical Manager)"
+ },
+ {
+  "Column5": "Page  1 of 1",
+  "Column10": "Authorized Signatory"
+ }
+]
+}

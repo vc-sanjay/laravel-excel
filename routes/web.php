@@ -1,6 +1,9 @@
 <?php
 
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Storage;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +19,17 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/object', function(Request $request) {
+    return view('object');
+});
+
+Route::post('/json', function(Request $request) {
+    // return response()->json($request->all());
+
+    try {
+        Storage::disk('public')->put('images.json', json_encode($request->all()));
+    } catch (Exception $exception) {
+        Log::error($exception);
+    }
+})->name('json.file.save');
